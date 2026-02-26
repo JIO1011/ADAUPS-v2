@@ -14,7 +14,7 @@ import Contact from './pages/Contact';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/ADAUPS-v2/">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
