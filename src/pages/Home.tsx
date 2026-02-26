@@ -98,7 +98,7 @@ export default function Home() {
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <img
-            src="https://picsum.photos/seed/adaups-campus/1920/1080"
+            src="https://www.ups.edu.ec/documents/20121/90875/banner-uio-08.jpg/b5e5f1ee-ef15-839b-a21d-d560a2f69f8f?t=1616884284896"
             alt="Campus UPS"
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
